@@ -36,8 +36,6 @@ def main(value):
 
     print(Totals)
 
-
-    #print(Occurence(Totals))
     if len(Totals) != 0:
         if type(Occurence(Totals)[0]) == float or len(Occurence(Totals)) == 1:
             print(str(value) + " : " + str(Occurence(Totals)[0]))
