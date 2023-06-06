@@ -1,0 +1,46 @@
+Intro et conclusion --> a ne pas mettre dans la table des matières
+
+Intro avant table des matières --> 
+
+Intro générique 2 3 phrases avec contexte et problématique
+
+Contexte : équipe de datascientist qui travaille dans une start up
+ 
+dernier client (problématique): beaucoup de facture qui doivent être traité sans dataset
+
+Notre dataset est médiocre pour montrer l'efficacité de notre produit.
+Solution proposée: on décrit notre process. Application hébergé dans le cloud, appel API pour l'utiliser.
+
+Etat de l'art: Parler des autres solutions de visions, parler de ce qu'on a utilisé dans edenai (google, amazon)
+
+Méthodologie de travail: quel est mon process, plus en détail, décrire comment on a fait pour tester de nouvelles idées: comment on a réussi à avancer.
+
+Résultat: tableau excel présentant les valeurs.
+
+Un slide ou on décrit dans les grandes lignes la V1
+Un slide ou on décrit la v2 avec les dif
+un slide ou on parle d'edenai, comment cela nous aide.
+
+Un slide ou on revient les résultats, renommées "Analyse des résultats" (commenter avec un peu plus de détail) 
+
+Conclusion, rétrospective et perspective; parler des prochaines étapes que l'on ferait si on continuerait le projet, comment on le voit évoluer.
+Utiliser l'AUtocritique: parler des défauts du projet
+
+Rétrospective: parler des gros obstacles du projet, comment on les a géré ou pas, et comment on arborait le projet aujourd'hui. 
+
+- - - - - - - - - - - - - - - - - - - - - - -
+
+
+Retravailler le texte --> suivre le pdf
+Slide 3 -> Solution proposée sous forme de schéma
+Slide 4 -> pareil
+Slide 7 -> Mettre résultat sous forme tabulaire (la précision)
+Slide 8 -> REfaire le début de fonctionnement sans code
+Slide 10 -> résultat en tableau
+Slide 13 -> Résultat sous forme tabulaire (échantillon des résultats)
+
+
+
+
+
+
